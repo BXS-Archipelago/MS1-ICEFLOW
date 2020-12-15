@@ -268,11 +268,11 @@ nav ul li a {
 }
 
 .main-outer .row-1 {
-     background-color: rgb(156, 5, 8);
+     background-color: #d4af37;
      padding: 15px;
      border-radius: 8px;
      box-shadow: 8px 7px 4px #a59e8e;
-     margin: 0 9px;
+    
 }
 
 .row-1 img {
@@ -288,9 +288,54 @@ nav ul li a {
       box-shadow: 8px 7px 4px #a59e8e;
 }
 
+.row-2 img{
+    max-height: 200px;
+     box-shadow: 3px 5px 6px #565b5d ;
+}
+
 .row-3 {
     background-color: #d4af37;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 8px 7px 4px #a59e8e;
 }
+
+.intro-text {
+    padding: 0 20px;
+    color: #282828;
+}
+
+.intro-text p {
+    font-weight: 500;
+}
+
+.intro-text li  {
+     list-style: none;
+}
+
+
+.intro-text li a {
+    color: darkblue;
+    font-weight: bolder;
+    list-style: none;
+}
+
+.intro-text span a {
+    color: darkblue;
+    font-weight: bolder;
+}
+
+
+.intro-text2 li  {
+     list-style: none;
+}
+
+.intro-text2 span a {
+ color: darkblue;
+    font-weight: bolder;
+}
+
+
+
+
+
