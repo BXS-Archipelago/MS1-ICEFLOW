@@ -279,3 +279,18 @@ nav ul li a {
     max-height: 200px;
      box-shadow: 3px 5px 6px #565b5d ;
 }
+
+
+.main-outer .row-2 {
+      background-color: #A9A9A9;
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 8px 7px 4px #a59e8e;
+}
+
+.row-3 {
+    background-color: #d4af37;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 8px 7px 4px #a59e8e;
+}
