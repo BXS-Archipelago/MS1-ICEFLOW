@@ -261,3 +261,21 @@ nav ul li a {
 
 /* ---------------------------------------------End Nav Bar Section */
 
+.main-outer .row {
+    display: flex;
+   align-items: center;
+   margin: 30px auto;
+}
+
+.main-outer .row-1 {
+     background-color: rgb(156, 5, 8);
+     padding: 15px;
+     border-radius: 8px;
+     box-shadow: 8px 7px 4px #a59e8e;
+     margin: 0 9px;
+}
+
+.row-1 img {
+    max-height: 200px;
+     box-shadow: 3px 5px 6px #565b5d ;
+}
