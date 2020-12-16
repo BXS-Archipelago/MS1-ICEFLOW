@@ -570,9 +570,113 @@ nav ul li a {
     border-radius: 40%;
 }
 
+.pic2 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/ane_brun2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
 
 
+.card:hover .pic2 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
 
+.pic3 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/elperrodelmar2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic3 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+.pic4 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/fever_ray3.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic4 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+.pic5 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/hannehukkelberg2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic5 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+.pic6 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/jennie_abrahamson1a.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic6 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+.pic7 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/ninakinert2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic7 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
 /*--------------------------Footer Social Icons Styling */
 
 .social-icons
