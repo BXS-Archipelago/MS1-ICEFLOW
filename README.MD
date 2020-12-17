@@ -111,3 +111,11 @@ The main body uses Container, Rows and Columns with separate sub-containers for 
 The footer also uses Container, Rows and Columns to fit all the information. It contains site information, a list for the Nordic countries, Quick links and also the site's own Social Media links in icon-identifiers.
 
 The Gallery - artists.html - was a long affair. The video tutorial for the effect was originally intended for just three Cards of a long rectangular shape. I re-sized the photos to make them suitable for the container, also adjusting the size of the card. The inside card was edited to fit the shrunken picture evenly at the top with the text, divider and buttons all repositioned.
+
+
+## Credits
+Navbar -
+Video tutorial for animated bar for responsive navigation menu: Creator : Tech2etc https://youtu.be/baFqcVUMUg0
+
+## Gallery --
+Video tutorial for animated holding card for artists' photos and button: Creator : Tech2etc https://www.youtube.com/watch?v=L5c6P1edZvE&t=315s
