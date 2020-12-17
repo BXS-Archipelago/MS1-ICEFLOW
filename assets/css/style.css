@@ -561,13 +561,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
    }
 
 
 .card:hover .pic1 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic2 {
@@ -579,13 +579,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic2 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic3 {
@@ -597,13 +597,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic3 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic4 {
@@ -615,13 +615,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic4 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic5 {
@@ -633,13 +633,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic5 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic6 {
@@ -651,13 +651,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic6 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic7 {
@@ -669,13 +669,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic7 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic8 {
@@ -687,13 +687,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic8 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 
@@ -706,13 +706,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic9 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic10 {
@@ -724,13 +724,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic10 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 
@@ -743,13 +743,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic11 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 .pic12 {
@@ -761,13 +761,13 @@ nav ul li a {
     bottom:0;
     background-size: 100% 100%;
     border-radius: 8px;
-    transition: 1s;
+    transition: 1.5s;
 }
 
 
 .card:hover .pic12 {
     transform: scale(0.5, 0.35) translateY(-525px);
-    border-radius: 40%;
+    border-radius: 20%;
 }
 
 
