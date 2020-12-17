@@ -696,6 +696,61 @@ nav ul li a {
     border-radius: 40%;
 }
 
+
+.pic9 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/silje_nes1.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic9 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+.pic10 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/stina_nordenstam2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic10 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
+
+
+.pic11 {
+    height: 100%;
+    width: 100%;
+    background-image: url("../img/susannesundfor2.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom:0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+
+.card:hover .pic11 {
+    transform: scale(0.5, 0.35) translateY(-525px);
+    border-radius: 40%;
+}
 /*--------------------------Footer Social Icons Styling */
 
 .social-icons
