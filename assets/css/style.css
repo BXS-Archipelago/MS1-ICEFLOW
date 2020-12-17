@@ -855,6 +855,50 @@ nav ul li a {
 }
 
 
+.contact-container {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+    margin: 20px;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.contact-container .form-box {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact-container .form-box form {
+    position: relative;
+    width: 100%;
+    padding: 0 0 0 75px;
+}
+
+.contact-container .form-box .form-style h3 {
+    color: #33353d; 
+    font-size: 3rem;
+    font-family: "Roboto Condensed", sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+
+.contact-container .form-box .form-style p {
+    color: #FF3B3F; 
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
 
 
 /*--------------------------Footer Social Icons Styling */
