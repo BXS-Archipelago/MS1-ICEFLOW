@@ -829,6 +829,32 @@ nav ul li a {
 
 
 
+/*---------------------------------------------------------------Contact Form */
+.contact-pic img {
+    max-height: 600px;
+    position: relative;
+    width: 100%;
+    border-radius:8px;
+    margin-top: 30px;
+}
+
+.main-outer-contact {
+    margin-bottom: 25px;
+}
+
+.cont-sctn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 65vh;
+    width: 100%;
+    background: #EFEFEF;
+    position: relative;
+    top: 5px;
+    margin-bottom: 80px;
+}
+
+
 
 
 /*--------------------------Footer Social Icons Styling */
