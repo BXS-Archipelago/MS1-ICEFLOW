@@ -770,6 +770,35 @@ nav ul li a {
     border-radius: 20%;
 }
 
+/*---------------------------------^^^^^ End List of Gallery Photos*/
+/*-------------------------------------------------------------------*/
+
+
+
+/*------------------------------------------------------------------ABOUT.HTML*/
+
+.intro-text .abt-text {
+    background-color: #A9A9A9;
+    padding: 20px 20px 10px 20px;
+    border-radius: 8px;
+    letter-spacing: 1px;
+    margin: 20px 0;   
+}
+
+.intro-text .abt-text h1 {
+    font-size: 1.6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 /*--------------------------Footer Social Icons Styling */
 
