@@ -268,7 +268,7 @@ nav ul li a {
 }
 
 .main-outer .row-1 {
-     background-color: #d4af37;
+     background-color: #ffce00;
      padding: 15px;
      border-radius: 8px;
      box-shadow: 8px 7px 4px #a59e8e;
@@ -282,7 +282,7 @@ nav ul li a {
 
 
 .main-outer .row-2 {
-      background-color: #A9A9A9;
+      background-color: #c4cace;
       padding: 15px;
       border-radius: 8px;
       box-shadow: 8px 7px 4px #a59e8e;
@@ -294,7 +294,7 @@ nav ul li a {
 }
 
 .row-3 {
-    background-color: #d4af37;
+    background-color: #ffce00;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 8px 7px 4px #a59e8e;
@@ -781,7 +781,13 @@ nav ul li a {
     margin-bottom: 50px;
 }
 
-
+.artist-main-outer .row-1 {
+     background-color: #cdd0d0;
+     padding: 15px;
+     border-radius: 8px;
+     box-shadow: 8px 7px 4px #a59e8e;
+    
+}
 
 .media-container {
     display: flex;
@@ -814,7 +820,30 @@ padding-top: 56.25%;
 margin-bottom: 50px;
 }
 
+.media-box2 .spotify .spotify-responsive{
+ position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
 
+.artist-social h4{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.social-icons li {
+    padding: 5px;
+}
+
+.concert-pic img {
+max-height: 200px;
+position: relative;
+width: 100%;
+}
 
 
 
