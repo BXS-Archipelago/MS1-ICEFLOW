@@ -21,17 +21,19 @@ The landing page will contain a gallery that will in turn open to the individual
 ### How does it work?
 Who will benefit most from visiting the site
 
-Music enthusiasts.
-English speaking
-Commuters
-Students
-Anybody who uses earphones with their mobile devices
-Music is proven to improve mood, reduce stress and/or anxiety, improves exercise and performance, improves memory and cognition. The site has broad application and will benefit a wide demographic, age 17 to 55. 
+- Music enthusiasts.
+- English speaking
+- Commuters
+- Students
+- Anybody who uses earphones with their mobile devices
+- Music is proven to improve mood, reduce stress and/or anxiety, improves  exercise and performance, improves memory and cognition. The site has broad application and will benefit a wide demographic, age 17 to 55. 
 
 ### How is it made?
+
 The site is designed using only HTML5 and CSS3 with some Bootstrap. There is a high potential for development with Javascript at a later stage though. 
 
-===== - User Experience - ====
+## User Experience 
+
 Visitors to the site are looking for new music experiences from unfamiliar artists. They will be invited to browse each artist and listen to samples of the music on spotify or watch YouTube videos.
 
 There are links to the artist's live shows and also icon-identifiers for their social media pages.
@@ -84,19 +86,28 @@ The Landing page gallery will shrink to a single column to scroll downwards.
 Design
 Header - Logo will be text-based, the site name : "iceflow" - Logo font-family : "Roboto Condensed", a simple font to keep with the theme of the site as a publisher of information.
 
-Color-scheme -
-Color palette:
-Neutral background, light & clean : #EFEFEF
-Definition feature, distinctive Watermelon : #FF3B3F
-Contrast : Deep Carbon : #A9A9A9
-Contrast : Metallic Gold: #d4af37 #D4AF37
-Pages and folder List
+## Color-scheme -
 
-assets (folder)
-css (folder)
-style.css
-img (sub-folder)
-(various image files) -index.HTML -artists.html -about.HTML -contact.HTML -artist-template.html (name will change with each entry)
+Color palette:
+- Neutral background, light & clean : #EFEFEF
+- Feature Colour : Deep Carbon : #A9A9A9
+- Feature Colour : Metallic Gold: #D4AF37
+- Dark Contrast for Footer : #26272b;
+
+
+
+
+## Pages and folder List
+
+- - assets (folder)
+- - css (folder)
+-  style.css
+- - img (sub-folder)
+- index.HTML 
+- artists.html 
+- about.HTML 
+- contact.HTML 
+- artist-template.html (name will change with each entry)
 Building the site
 The Navigation bar:
 
@@ -119,3 +130,74 @@ Video tutorial for animated bar for responsive navigation menu: Creator : Tech2e
 
 ## Gallery --
 Video tutorial for animated holding card for artists' photos and button: Creator : Tech2etc https://www.youtube.com/watch?v=L5c6P1edZvE&t=315s
+
+#### Contact Form --
+Contact page tutorial for the contact form :
+Creator : Online Tutorials
+https://www.youtube.com/watch?v=gggB0Nq5vBk
+
+#### Photograph Credits --  
+gig2.jpg  Microphone photo created by Oscar Keys; 
+Source Unsplash.com
+https://unsplash.com/photos/ojVMh1QTVGY
+
+guitars3.jpg  Music room photo created by Wes Hicks; 
+Source Unsplash.com
+https://unsplash.com/photos/MEL-jJnm7RQ
+
+records.jpg created by Eric Krull ;
+Source Unsplash.com
+https://unsplash.com/photos/fi3_lDi3qPE
+
+Contact page - Singout.jpg photo created by Alyssa Yung
+Source Unsplash.com
+https://unsplash.com/photos/-Gx7tuwO8_U
+
+### ****** NB - Photographs of the individual artists ******
+Images of each artist were taken from the artists own website or social media page. The creator's name for each photo was not available but the images are in wide circulation as marketing material. 
+
+
+## Responsiveness Display
+
+Responsiveness 
+
+#### Generic Laptop : 
+
+
+![Bxs-archipelago - Generic Laptop - 2020-14-12 at 2 55 40 PM](https://user-images.githubusercontent.com/71372294/102098408-18728a00-3e1f-11eb-92fd-15eda75be32d.jpg)
+
+
+#### iPhone display
+
+
+
+![Bxs-archipelago - Full - iPhone X - 2020-14-12 at 2 48 24 PM](https://user-images.githubusercontent.com/71372294/102098839-8cad2d80-3e1f-11eb-9f22-66aad9b774c0.jpg)
+
+
+#### iPad display
+
+![Bxs-archipelago - Full - iPad - 2020-14-12 at 2 48 24 PM](https://user-images.githubusercontent.com/71372294/102098497-34762b80-3e1f-11eb-9c37-490dd3eb8f88.jpg)
+
+
+#### View of Artists page on Laptop
+
+
+![Bxs-archipelago - Generic Laptop - 2020-14-12 at 3 21 26 PM](https://user-images.githubusercontent.com/71372294/102099308-12c97400-3e20-11eb-8950-daac429e9237.jpg)
+
+
+#### Artists page on iPad
+
+
+![Bxs-archipelago - iPad - 2020-14-12 at 3 22 24 PM](https://user-images.githubusercontent.com/71372294/102099614-5e7c1d80-3e20-11eb-9c0f-ef7b2791fcf2.jpg)
+
+
+#### Artists page on iPhone
+
+![Bxs-archipelago - iPhone X - 2020-14-12 at 3 22 34 PM](https://user-images.githubusercontent.com/71372294/102099639-650a9500-3e20-11eb-9150-f375da776ff5.jpg)
+
+
+## Future Potential:
+
+Iceflow has the potential to become a popular music media site. Driven by Social Media, the site visits could generate revenue through advertising and affiliate marketing. There is scope for two to three hundred featured artists with more sophisticated indexing system such as by genre, by country, by gender, and other sub-categories. 
+
+This would inevitably need javasccipt development, but for the sake of this MS1 project, I chose to limit the content to HTML5 and CSS3 since that has been the subject matter of the course thus far. 
