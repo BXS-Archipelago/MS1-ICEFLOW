@@ -728,10 +728,17 @@ margin-bottom: 50px;
 .artist-social h4{
     text-align: center;
     font-size: 2rem;
+     padding-top:10px;
+}
+    
+
+
+.social-icons {
+    align-content: center;
 }
 
 .social-icons li {
-    padding: 5px;
+    padding: 10px;
 }
 
 .concert-pic img {
