@@ -48,8 +48,10 @@ With the scope for so many artists, the site must remain easy to navigate. Other
 
 The site owner actively populates the social media pages with new entries so the visitors will be encouraged to click to their favourite site, for example, Facebook, Twitter, Instagram.
 
-#### Wireframe Mock-site
-A Wireframe mock-up has been created with Balsamiq to show an approximate visual objective for the site and is listed in the file menu herewith.
+#### Wireframes
+A Wireframe mock-up has been created with Balsamiq to show an approximate visual objective for the site and is contained in the assets folder: 
+
+/workspace/MS1-ICEFLOW/assets/iceflow_Wireframe.pdf
 
 ## Viewing the Site Responsively
 #### Desktop

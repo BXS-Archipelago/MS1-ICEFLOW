@@ -876,6 +876,87 @@ width: 100%;
 
 
 
+.contact-container .form-box .form-style .inputbox {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.contact-container .form-box .form-style .inputbox:last-child    {
+    margin-bottom: 0px;
+}
+
+.contact-container .form-box .form-style .inputbox input,
+.contact-container .form-box .form-style .inputbox textarea {
+    position: relative;
+    background: transparent;
+    outline: none;
+    border: none;
+    width: 100%;
+    color:#000; 
+    padding-bottom: 10px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    border-bottom: 2px solid #CAEBF2;
+    resize: none;
+}
+
+.contact-container .form-box .form-style .inputbox textarea {
+    height: 100px;    
+}
+
+.contact-container .form-box .form-style .inputbox input[type="submit"] {
+    background: #A9A9A9; ;
+    padding: 8px 20px;
+    margin-top: -10px;
+    width: 150px;
+    cursor: pointer;
+    color: #FFF; 
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.contact-container .form-box .form-style .inputbox input[type="submit"]:focus {
+    background: #3f3e3e;
+    color: #fff;
+    box-shadow: 0 5px #FF3B3F;
+    transform: translateY(4px);
+}
+
+.contact-container .form-box .form-style .inputbox span {
+    position: absolute;
+    left: 0;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    pointer-events: none;
+    letter-spacing: 1px;
+    color: #A9A9A9;
+    transition: all 0.2s ;
+}
+
+.contact-container .form-box .form-style .inputbox input:focus ~ span ,
+.contact-container .form-box .form-style .inputbox textarea:focus ~ span,
+.contact-container .form-box .form-style .inputbox input:valid ~ span,
+.contact-container .form-box .form-style .inputbox textarea:valid ~ span {
+    transform: translateY(-24px);
+    color: #252525;
+    font-size: 14px;
+}
+
+.contact-container .form-box .form-style .inputbox input:focus,
+.contact-container .form-box .form-style .inputbox textarea:focus,
+.contact-container .form-box .form-style .inputbox input:valid,
+.contact-container .form-box .form-style .inputbox textarea:valid {
+
+    border-bottom-color: #252525;
+}
+
+
+
 /*=========================================================Footer*/
 
 .site-footer container
