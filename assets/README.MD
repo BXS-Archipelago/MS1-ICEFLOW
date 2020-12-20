@@ -4,22 +4,24 @@
 
 ## === Overview-====
 
-This website is for any contemporary music enthusiast and will provide them with direct links to singer-songwriters of the Nordic Music industry.
+This website is for any contemporary music enthusiast and will provide them with direct links to singer-songwriters of the Nordic Music industry. 
 
 ### Why does it exist
 
-There are many artists in the Nordic region who create their music in the English language, however the marketing strategies of their record labels often do not extend properly into the global market. This website will act as a relay for the artists to introduce their music to a wider audience, especially in Europe and the US.
+There are many artists in the Nordic region who create their music in the English language, however the marketing strategies of their record labels often do not extend properly into the global market. This website will act as a relay for the artists to introduce their music to a wider audience, especially in Europe and the US. 
+
+Commercial radio stations only exist commercially, so music that is off the radar does not interest them and does hold a commercial value for them. Music enthusiasts mostly find reference to hidden talent through independent means, such as word-of-mouth, the artists' self-promotion and through independent resources. This website is created as an independent resource for the artists featured herein. 
 
 ### What does it do?
 
-The site will provide some biographical information for each artist, with links to their work provided through YouTube and spotify links, and also direct links to the artists' social media pages.
+The site will provide some biographical information for each artist, with links to their work provided through YouTube and spotify links, and also direct links to the artists' social media pages. 
 
 ### How does it work?
 
-The landing page will contain a gallery that will in turn open to the individual artist's page on the site.
+The landing page will contain a gallery that will in turn open to the individual artist's page on the site. A visitor will be able to explore the resources contained, such as biographical and discographical information,  music from embedded Spotify playlists and embedded YouTube videos. 
 
-### How does it work?
-Who will benefit most from visiting the site
+
+### Who will benefit most from visiting the site
 
 - Music enthusiasts.
 - English speaking
@@ -46,11 +48,11 @@ With the scope for so many artists, the site must remain easy to navigate. Other
 
 The site owner actively populates the social media pages with new entries so the visitors will be encouraged to click to their favourite site, for example, Facebook, Twitter, Instagram.
 
-Wireframe Mock-site
+#### Wireframe Mock-site
 A Wireframe mock-up has been created with Balsamiq to show an approximate visual objective for the site and is listed in the file menu herewith.
 
-Viewing the Site Responsively
-Desktop
+## Viewing the Site Responsively
+#### Desktop
 Each page will contain a logo in the top left screen that will also provide a home link to index.html.
 
 A responsive navigation menu will sit to the top right of the screen on tablet and smaller screens
@@ -73,18 +75,21 @@ Both the About and Contact page will encourage the visitor to send in the name o
 
 The pages for the artists will contain a short biographical note, a section for recommendations of their work to the visitor, with link to spotify and a featured Youtube video from the artist.
 
-Tablet View
+#### Tablet View
 The tablet view will inherit most features of the desktop site but the navigation bar will respond by transforming into a Burger bar for a drop-down menu. This will feature in the top right.
 
 The Burger bar, when activated will transform into a "X" that can close the menu if required. This will be seated near the top right of the page.
 
-Mobile view
+#### Mobile view
 On mobile phone devices, the nav bar will remain as an active Burger-style drop-down menu.
 
 The Landing page gallery will shrink to a single column to scroll downwards.
 
-Design
-Header - Logo will be text-based, the site name : "iceflow" - Logo font-family : "Roboto Condensed", a simple font to keep with the theme of the site as a publisher of information.
+
+## Design
+Header - Logo will be text-based, the site name : "iceflow"  
+
+Logo font-family : "Roboto Condensed", a simple font to keep with the theme of the site as a publisher of information. I want to avoid serifs or any text decoration apart from simple sizing and bold-effect where required. 
 
 ## Color-scheme -
 
@@ -108,7 +113,9 @@ Color palette:
 - about.HTML 
 - contact.HTML 
 - artist-template.html (name will change with each entry)
-Building the site
+
+
+## Building the site
 The Navigation bar:
 
 The initial step was to use Row & Column 4 & 8 for the logo and navigation bar area. This produced other issues with overall page margins and padding, so I removed that layout from the header.
@@ -121,7 +128,7 @@ The main body uses Container, Rows and Columns with separate sub-containers for 
 
 The footer also uses Container, Rows and Columns to fit all the information. It contains site information, a list for the Nordic countries, Quick links and also the site's own Social Media links in icon-identifiers.
 
-The Gallery - artists.html - was a long affair. The video tutorial for the effect was originally intended for just three Cards of a long rectangular shape. I re-sized the photos to make them suitable for the container, also adjusting the size of the card. The inside card was edited to fit the shrunken picture evenly at the top with the text, divider and buttons all repositioned.
+The Gallery - artists.html. The video tutorial for the effect was originally intended for just three Cards of a long rectangular shape. I re-sized the photos to make them suitable for the container, also adjusting the size of the card. The inside card was edited to fit the shrunken picture evenly at the top with the text, divider and buttons all repositioned. The objective of this was to make them as appealing as much in mobile view as it is on desktop. 
 
 
 ## Credits
@@ -159,41 +166,25 @@ Images of each artist were taken from the artists own website or social media pa
 
 ## Responsiveness Display
 
-Responsiveness 
+Responsiveness and sample-page copies from the site on different screens. 
 
 #### Generic Laptop : 
+![Bxs-archipelago - Generic Laptop - 2020-20-12 at 1 02 59 PM](https://user-images.githubusercontent.com/71372294/102714047-311dec80-42c4-11eb-8d1b-ac205ff79f8c.jpg)
 
 
-![Bxs-archipelago - Generic Laptop - 2020-14-12 at 2 55 40 PM](https://user-images.githubusercontent.com/71372294/102098408-18728a00-3e1f-11eb-92fd-15eda75be32d.jpg)
-
+![Bxs-archipelago - Generic Laptop - 2020-20-12 at 1 03 29 PM](https://user-images.githubusercontent.com/71372294/102714057-40049f00-42c4-11eb-90d7-afac6e8b4fad.jpg)
 
 #### iPhone display
 
-
-
-![Bxs-archipelago - Full - iPhone X - 2020-14-12 at 2 48 24 PM](https://user-images.githubusercontent.com/71372294/102098839-8cad2d80-3e1f-11eb-9f22-66aad9b774c0.jpg)
-
+![Bxs-archipelago - iPhone X - 2020-20-12 at 1 02 47 PM](https://user-images.githubusercontent.com/71372294/102714080-590d5000-42c4-11eb-9da3-dbcfed76d265.jpg)
+![Bxs-archipelago - iPhone X - 2020-20-12 at 1 03 21 PM](https://user-images.githubusercontent.com/71372294/102714096-632f4e80-42c4-11eb-85f1-a4e4103ef5a0.jpg)
 
 #### iPad display
 
-![Bxs-archipelago - Full - iPad - 2020-14-12 at 2 48 24 PM](https://user-images.githubusercontent.com/71372294/102098497-34762b80-3e1f-11eb-9c37-490dd3eb8f88.jpg)
+![Bxs-archipelago - iPad - 2020-20-12 at 1 02 55 PM](https://user-images.githubusercontent.com/71372294/102714069-498e0700-42c4-11eb-80dc-5cbf7b1bae33.jpg)
+![Bxs-archipelago - iPad - 2020-20-12 at 1 03 26 PM](https://user-images.githubusercontent.com/71372294/102714072-501c7e80-42c4-11eb-9108-2d3ad67967eb.jpg)
 
 
-#### View of Artists page on Laptop
-
-
-![Bxs-archipelago - Generic Laptop - 2020-14-12 at 3 21 26 PM](https://user-images.githubusercontent.com/71372294/102099308-12c97400-3e20-11eb-8950-daac429e9237.jpg)
-
-
-#### Artists page on iPad
-
-
-![Bxs-archipelago - iPad - 2020-14-12 at 3 22 24 PM](https://user-images.githubusercontent.com/71372294/102099614-5e7c1d80-3e20-11eb-9c0f-ef7b2791fcf2.jpg)
-
-
-#### Artists page on iPhone
-
-![Bxs-archipelago - iPhone X - 2020-14-12 at 3 22 34 PM](https://user-images.githubusercontent.com/71372294/102099639-650a9500-3e20-11eb-9150-f375da776ff5.jpg)
 
 
 ## Future Potential:
@@ -201,3 +192,5 @@ Responsiveness
 Iceflow has the potential to become a popular music media site. Driven by Social Media, the site visits could generate revenue through advertising and affiliate marketing. There is scope for two to three hundred featured artists with more sophisticated indexing system such as by genre, by country, by gender, and other sub-categories. 
 
 This would inevitably need javasccipt development, but for the sake of this MS1 project, I chose to limit the content to HTML5 and CSS3 since that has been the subject matter of the course thus far. 
+
+
