@@ -188,6 +188,24 @@ Responsiveness and sample-page copies from the site on different screens.
 
 
 
+## Deployment
+
+The website was hosted on GITHUB while built in the gitpod collaborative development environment. 
+
+### Published: 
+
+The current hosted address for the site is: 
+
+ https://bxs-archipelago.github.io/MS1-ICEFLOW/
+
+## Forking
+
+We welcome review and constructive input for the ICEFLOW pages using GITHUB to our mutual benefit. 
+
+This can be done using your GITHUB login and going to the Repository( https://bxs-archipelago.github.io/MS1-ICEFLOW/) for our site. 
+
+
+
 
 ## Future Potential:
 
