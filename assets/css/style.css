@@ -275,7 +275,7 @@ nav ul li a {
 
 .main-outer .row-1 {
      background-color: #ffce00;
-     padding: 15px;
+     padding: 25px;
      border-radius: 8px;
      box-shadow: 8px 7px 4px #a59e8e;
     
@@ -1132,7 +1132,19 @@ width: 100%;
      .intro-pic2 img{
     max-height: 200px;
     max-width: 200px;
-   
+   }
+
+   .social-icons li {
+    padding: 0px;
+}
+
+    .social-icons li .imdb {
+        display: none;
+    }
+
+    .media-container .row-1 {
+        padding: 0;
+
     }
 }
 
@@ -1240,6 +1252,30 @@ width: 100%;
       font-size: 1rem;
   }
 
+.intro-text .abt-text h1 {
+    font-size: 1rem;
+}
+
+.main-outer .row-1 {
+     padding: 10px 0;
+}
+
+.intro-text .abt-text p {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.intro-text .abt-text2 h1 {
+    font-size: 1rem;
+}
+
+.intro-text .abt-text2 p {
+    font-size: 12px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
   .intro-text p {
       font-size: 0.75rem;
   }
@@ -1253,6 +1289,45 @@ width: 100%;
 }
 
 .contact-pic img {
+    display: none;
+}
+
+.contact-container .form-box form {
+    padding: 0;
+}
+
+.contact-container .form-box .form-style h3 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.contact-container .form-box .form-style p {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.artist-main-outer .row-1 {
+     margin: 8px 4px;
+}
+
+.artist-main-outer .row-3 {
+    margin: 8px 4px;
+}
+
+.media-box .youtube .youtube-responsive {
+    padding: 3px;
+}
+
+.row-2 .social-icons {
+    text-align: center;
+}
+
+.links1{
+    display: none;
+}
+
+.links2 {
     display: none;
 }
 }

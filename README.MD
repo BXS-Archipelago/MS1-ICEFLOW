@@ -1,6 +1,6 @@
 ======================= iceflow by Brian Smyth =======================
 
-# ===== - Introduction - ====
+
 
 ## === Overview-====
 
@@ -192,7 +192,10 @@ https://unsplash.com/photos/-Gx7tuwO8_U
 Images of each artist were taken from the artists own website or social media page. The creator's name for each photo was not available but the images are in wide circulation as marketing material. 
 
 
-## Responsiveness Display
+## Responsiveness of  Display
+
+
+The following Browsers were checked to ascertain whether the site was in optimal display in all sizes. 
 
 Responsiveness and sample-page copies from the site on different screens. 
 
@@ -211,6 +214,14 @@ Responsiveness and sample-page copies from the site on different screens.
 
 ![Bxs-archipelago - iPad - 2020-20-12 at 1 02 55 PM](https://user-images.githubusercontent.com/71372294/102714069-498e0700-42c4-11eb-80dc-5cbf7b1bae33.jpg)
 ![Bxs-archipelago - iPad - 2020-20-12 at 1 03 26 PM](https://user-images.githubusercontent.com/71372294/102714072-501c7e80-42c4-11eb-9108-2d3ad67967eb.jpg)
+
+
+
+## Further Testing:
+
+The site was also checked across browsers and several different devices on www.browserstack.com
+
+![iceflowtest](https://user-images.githubusercontent.com/71372294/102820960-0fa92780-43ce-11eb-9600-99300ffdc763.png)
 
 
 
