@@ -139,12 +139,24 @@ The Gallery - artists.html. The video tutorial for the effect was originally int
 
     The HTML pages were validated at the W3C HTML [Validator](https://validator.w3.org/)
 
-
+    No issues were found in my own code, however the validator found the Youtube and Spotify frameborder on the iframes to be obsolete. This is from the embedding code provided by both YouTube and Spotify. 
 
     ![youtubespotify](https://user-images.githubusercontent.com/71372294/102778214-1746dd00-438a-11eb-9285-84d71b658295.png)
 
 
-    
+## Bug Reporting: 
+
+ As above, the W3C validator pointed out obsolete methodology used in the embedded code from both YouTube and Spotify. From researching the error, it seems that W3C are reviewing the standards for this problem. 
+
+    Following intensive testing, the page passed requirements for responsiveness on all screens. 
+
+I found one bug, however, in the contact.html page that I found challenging to overcome and in the end I had to change the design. The issue was as follows:
+
+    Contact Form contains fields with <span> set for field names such as name, country, email, etc. 
+    When the visitor clicks on the line, field name rises in transition to leave a blank line for the information to be entered. 
+    As input-type="text for the email section, the translate(Y) movement worked perfectly. However the email was not able to be validated. 
+    As input-type="email", the information was validated, but the Translate(Y) movement returned to its original point, leaving text over text, and so it is unreadable. 
+    This is a CSS rule conflict, so I was unable to provide both the attractive text movement and the email validation without using Javascript. This was a disappointment as I had spent several hours trying overcome the issue and the original display suited the site very well.
 
 
 ## Credits
@@ -241,6 +253,6 @@ The Repository( https://bxs-archipelago.github.io/MS1-ICEFLOW/)
 
 Iceflow has the potential to become a popular music media site. Driven by Social Media, the site visits could generate revenue through advertising and affiliate marketing. There is scope for two to three hundred featured artists with more sophisticated indexing system such as by genre, by country, by gender, and other sub-categories. 
 
-This would inevitably need javasccipt development, but for the sake of this MS1 project, I chose to limit the content to HTML5 and CSS3 since that has been the subject matter of the course thus far. 
+This would inevitably need javascript development, (especially for the bug in the contact form) but for the sake of this MS1 project, I chose to limit the content to HTML5 and CSS3 since that has been the subject matter of the course thus far. 
 
 
