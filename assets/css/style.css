@@ -938,10 +938,9 @@ width: 100%;
     transition: all 0.2s ;
 }
 
-.contact-container .form-box .form-style .inputbox input:focus ~ span ,
-.contact-container .form-box .form-style .inputbox textarea:focus ~ span,
-.contact-container .form-box .form-style .inputbox input:valid ~ span,
-.contact-container .form-box .form-style .inputbox textarea:valid ~ span {
+
+.contact-container .form-box .form-style .inputbox span,
+.contact-container .form-box .form-style .inputbox span {
     transform: translateY(-24px);
     color: #252525;
     font-size: 14px;

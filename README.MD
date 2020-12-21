@@ -133,6 +133,20 @@ The footer also uses Container, Rows and Columns to fit all the information. It 
 The Gallery - artists.html. The video tutorial for the effect was originally intended for just three Cards of a long rectangular shape. I re-sized the photos to make them suitable for the container, also adjusting the size of the card. The inside card was edited to fit the shrunken picture evenly at the top with the text, divider and buttons all repositioned. The objective of this was to make them as appealing as much in mobile view as it is on desktop. 
 
 
+## Validation: 
+
+    The CSS was tested at the W3C [Validator](https://jigsaw.w3.org/css-validator/validator) and was found to have no issues. 
+
+    The HTML pages were validated at the W3C HTML [Validator](https://validator.w3.org/)
+
+
+
+    ![youtubespotify](https://user-images.githubusercontent.com/71372294/102778214-1746dd00-438a-11eb-9285-84d71b658295.png)
+
+
+    
+
+
 ## Credits
 Navbar -
 Video tutorial for animated bar for responsive navigation menu: Creator : Tech2etc https://youtu.be/baFqcVUMUg0
@@ -204,6 +218,22 @@ We welcome review and constructive input for the ICEFLOW pages using GITHUB to o
 
 This can be done using your GITHUB login and going to the Repository( https://bxs-archipelago.github.io/MS1-ICEFLOW/) for our site. 
 
+
+## Cloning
+
+To clone the site, please use your GITHUB login and find : 
+
+The Repository( https://bxs-archipelago.github.io/MS1-ICEFLOW/)  
+
+- Click the "Clone or Download" button.
+
+- Use the Link at "Clone With HTTPS"
+
+- Open a new Terminal and go to your chosen directory.
+
+- Use the Command - "git clone" and paste in your previously copied link.
+
+- Hit Enter to Clone.
 
 
 
